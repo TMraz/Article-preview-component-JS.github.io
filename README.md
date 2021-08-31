@@ -50,7 +50,7 @@ Users should be able to:
 Snippets, see below:
 
 MediaQuery for jQuery:
-
+ 
 ```js
     // Create a media condition that targets viewports at least 700px wide
     const mediaQuery = window.matchMedia('(min-width: 700px)')
